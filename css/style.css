@@ -1,3 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-collom{
+    background-color: #8D8D8D;
+}
+.authorname{
+    font-weight: bolder;
+}
