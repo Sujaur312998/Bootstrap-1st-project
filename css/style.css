@@ -13,3 +13,9 @@ body{
 .nav-bgclr{
     background-color: #262B37;
 }
+.aboutContainer{
+    background-color: #01BBBD;
+}
+.aboutText{
+    text-align:justify;
+}
